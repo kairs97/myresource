@@ -16,6 +16,6 @@ metadata:
       spec:
         containers:
         - name: hello-world
-          image: kairs97/mywebapp
+          image: kairs97/mywebapp:10
           ports:
           - containerPort: 8080
